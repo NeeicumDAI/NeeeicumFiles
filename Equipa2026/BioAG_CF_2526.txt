@@ -1,0 +1,26 @@
+ConselhoFiscal:
+	Presidente: Alexandre Miguelote
+
+			Aluno do 2.º ano de Mestrado nas especializações de Controlo, Automação e Robótica e de Eletrónica de Potência e Energia. Ingressou no NEEICUM no presente mandato como Presidente do Conselho Fiscal.
+
+	Vice: Mariana Paiva
+		
+			Aluna do 2º ano da licenciatura, natural de Vila Nova de Famalicão, onde concluiu o ensino secundário na Escola Secundária Camilo Castelo Branco. O seu percurso sempre esteve ligado ao desporto, tendo praticado basquetebol federado durante 4 anos e kickboxing federado durante 2 anos. Para além da vertente desportiva, integrou também o movimento escutista onde participou em diversas ações de voluntariado, e desenvolveu valores como a entreajuda, liderança, resiliência e espírito de equipa. Integrou o NEEICUM em 2024, iniciando como colaboradora do Departamento de Relações Externas (DRE) e assumindo, no presente mandato, o cargo de vice-presidente do Conselho Fiscal.
+
+	Secretário: Gabriela Oliveira
+
+			Aluna a acabar a licenciatura e a começar o mestrado em Instrumentação e Microssistemas Eletrónicos na Universidade do Minho. É natural de Braga, onde completou o ensino secundário na Escola Secundária Carlos Amarante. Faz dança desportiva na Bracara Team há 7 anos. Já participou em ações de voluntariado no campus de verão da freguesia onde reside. Ingressou no NEEICUM em 2024, fazendo parte do Departamento de Relações Externas (DRE). No presente mandato é secretária do Conselho Fiscal.
+
+
+
+Assembleia:
+	Presidente: Leonor Pereira
+			Aluna do 2.° ano da Licenciatura. Natural de Chaves, concluiu o ensino secundário na Escola Secundária Dr. Júlio Martins e em simultâneo o 8.° grau em Música, na especialidade de Flauta Transversal, na Academia de Artes de Chaves. Em conjunto com o seu percurso académico, faz parte da direção da Banda Musical de Vila Verde da Raia, como vice-presidente, assim como participa como música em outras bandas do seu concelho. Ingressou no NEEEICUM no ano letivo 2024/25 como colaboradora do Departamento Pedagógico e Recreativo.
+
+	Vice: Tiago Oliveira
+		Aluno do 2ºano de Mestrado nas especializações de Sistemas Embebidos e Computadores e de Controlo, Automação e Robótica. Natural de Baião, onde finalizou o ensino secundário na Escola Básica e Secundária de Baião. Esteve inserido em vários grupos e participou em diversas atividades durante o seu percurso escolar, em especial, clubes e competições de matemática, línguas e desporto. É membro do NEEEICUM desde 2022 no Departamento de Relações Externas, tendo desempenhado em 2023/2024 o cargo de Vice-Diretor no mesmo departamento. Atualmente, é Vice-Presidente da Assembleia Geral.
+
+
+	Secretário: Vinicius Carvalho
+
+			Aluno do 2º ano de mestrado nas especializações de Sistemas Embebidos e Instrumentação e microssistemas. Natural do Brasil, imigrando a Portugal em 2017 residindo em Vila Nova de Famalicão. Realizou o ensino secundário no Agrupamento de Escolas Camilo Castelo Branco onde foi auxiliar do professor e responsável pela manutenção informática da escola. Ingressou na universidade em 2021 e posteriormente no NEEEICUM em 2023 e no presente mandato desempenha o cargo de Secretário da Assembleia Geral pelo segundo ano.
